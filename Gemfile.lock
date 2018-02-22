@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.8.0)
+    json (2.1.0)
+    neatjson (0.8.3)
+    vault (0.10.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  json
+  neatjson
+  vault (~> 0.10.1)
+
+BUNDLED WITH
+   1.16.1
